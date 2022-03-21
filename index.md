@@ -34,7 +34,7 @@ I often contemplate the nature and meaning of time. Is time an illusion? How are
 [Does time flow both ways](https://youtu.be/zrFzSwHxiBQ)?
 To this end, I've read [The Philosophy of Time](https://plato.stanford.edu/entries/time/) and 
 [The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) 
-word to word several times. I don't yet know where I'm going with all this. I guess "time" will tell. 
+word to word several times. I don't know yet where I'm going with all this. I guess "time" will tell. 
 <br /> 
 
 I sometimes collect what I read [here](https://zairahms.github.io/Reading-Writing). 
@@ -44,7 +44,7 @@ Having multiple hobbies and interests can feel overwhelming.
 <br /> 
 
 Ironically, the wide variety of things that I've read, my experiences, combined with my inner monologue, have given me a sense of unification. 
-It's what's opened me to the world of Sacred Geometry. I find harmony in observing the shapes and patterns found in the world around us. 
+It's what's opened me to the world of Sacred Geometry. I find harmony in observing the shapes and patterns hidden in the world around us. 
 I think they reflect the underlying order of the universe - embodying Oneness with all of life. 
 
 
