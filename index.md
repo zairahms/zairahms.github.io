@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Zairah Mustahsan
-
 Hey there! I am a Data Scientist at IBM. 
 
 Previously, I graduated from the University of Pennsylvania with a Master's in Computer Science. 
@@ -33,19 +32,20 @@ I mostly rely on independent resources and people's lived experiences for histor
 
 I often contemplate the nature and meaning of time. Is time an illusion? How are memory and time connected? 
 [Does time flow both ways](https://youtu.be/zrFzSwHxiBQ)?
-To this end, I've read [Time](https://plato.stanford.edu/entries/time/) and 
-[The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) from the Stanford Encylopedia of Philosophy 
+To this end, I've read [The Philosophy of Time](https://plato.stanford.edu/entries/time/) and 
+[The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) 
 word to word several times. I don't yet know where I'm going with all this. I guess "time" will tell. 
 <br /> 
 
 I sometimes collect what I read [here](https://zairahms.github.io/Reading-Writing). 
 <br /> 
 
-Having multiple hobbies and interests can sometimes feel overwhelming. 
+Having multiple hobbies and interests can feel overwhelming. 
 <br /> 
 
-Ironically, the wide variety of things that I've read and explored combined with my inner monologue has given me a sense of unification. It's what's opened me to the world of Sacred Geometry. I find harmony in observing the shapes and patterns found in the world around us. I think they reflect the underlying order of the universe - embodying Oneness with all of life. 
-
+Ironically, the wide variety of things that I've read, my experiences, combined with my inner monologue, have given me a sense of unification. 
+It's what's opened me to the world of Sacred Geometry. I find harmony in observing the shapes and patterns found in the world around us. 
+I think they reflect the underlying order of the universe - embodying Oneness with all of life. 
 
 
 
