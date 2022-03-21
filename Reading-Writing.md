@@ -46,7 +46,7 @@ of God; therefore, the simplest that man can conceive is the greatest that he ca
 - “I have noticed that if you look carefully at people’s eyes the first five seconds they look at you, the truth of their feelings will shine through for just an instant before it flickers away.”
 
 **Orientalism**, Edward W. Said
-“Every single empire in its official discourse has said that it is not like all the others, 
+- “Every single empire in its official discourse has said that it is not like all the others, 
 that its circumstances are special, that it has a mission to enlighten, civilize, bring order and 
 democracy, and that it uses force only as a last resort. And, sadder still, there always is a chorus of
 willing intellectuals to say calming words about benign or altruistic empires, as if one shouldn't trust
