@@ -1,6 +1,6 @@
 ---
 title: Reading-Writing
-layout: page
+layout: default
 filename: Reading-Writing.md
 permalink: /Reading-Writing
 --- 
@@ -35,15 +35,18 @@ ___
 
 - "We allow ourselves to be blown by the winds because we do know what we want: our hearts know it, 
 even if our thoughts are sometimes slow to follow- but in the end, they do catch up with our hearts 
-and then we think we have made a decision."
+and then we think we have made a decision."<br />
 - “Whatever beauty man may be able to create with his hands, it will be only conceit to deem it worthy 
 of God; therefore, the simplest that man can conceive is the greatest that he can do to express the glory of God.”
+<br /><br />
 
 **Crime and Punishment,** Fyodor Dostoyevsky
 - “We sometimes encounter people, even perfect strangers, who begin to interest us at first sight, somehow suddenly, all at once, before a word has been spoken.”
+<br /><br />
 
 **The Secret Life of Bees,** Sue Monk Kidd
 - “I have noticed that if you look carefully at people’s eyes the first five seconds they look at you, the truth of their feelings will shine through for just an instant before it flickers away.”
+<br /><br />
 
 **Orientalism**, Edward W. Said
 - “Every single empire in its official discourse has said that it is not like all the others, 
@@ -52,7 +55,22 @@ democracy, and that it uses force only as a last resort. And, sadder still, ther
 willing intellectuals to say calming words about benign or altruistic empires, as if one shouldn't trust
 the evidence of one's eyes watching the destruction and the misery and death brought by the latest 
 mission civilisatrice.”
+<br /><br />
 
+**The Prophet**, *On Self-Knowledge*, Khalil Gibran
+- "And it is well you should.<br />
+   The hidden well-spring of your soul must needs rise and run murmuring to the sea;<br />
+   And the treasure of your infinite depths would be revealed to your eyes.<br />
+   But let there be no scales to weigh your unknown treasure;<br />
+   And seek not the depths of your knowledge with staff or sounding line.<br />
+   For self is a sea boundless and measureless."
+<br /><br />
+The entire poem is available [here](https://poets.org/poem/self-knowledge)
 <br />
+<br />
+<br />
+<br />
+
+
 *Thank you for reading.*
 
