@@ -46,6 +46,7 @@ of God; therefore, the simplest that man can conceive is the greatest that he ca
 <br /><br />
 
 **The Secret Life of Bees,** Sue Monk Kidd
+
 - “I have noticed that if you look carefully at people’s eyes the first five seconds they look at you, the truth of their feelings will shine through for just an instant before it flickers away.”
 <br /><br />
 
@@ -70,7 +71,7 @@ mission civilisatrice.”
 <br /><br />
 Full poem is available [here](https://poets.org/poem/self-knowledge){:target="_blank" rel="noopener"}<br />
 
-<br /> <br /><br /> <br /><br /> <br /><br /> <br />
+<br /> <br /><br /> <br /><br /> <br /><br /> <br /><br />
 
 #### Kashmiri literature
 I love reading literature and poems from my homeland Kashmir. They often draw from metaphors of nature and theme spirituality, 
