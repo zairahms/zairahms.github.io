@@ -41,6 +41,7 @@ of God; therefore, the simplest that man can conceive is the greatest that he ca
 <br /><br />
 
 **Crime and Punishment,** Fyodor Dostoyevsky
+
 - “We sometimes encounter people, even perfect strangers, who begin to interest us at first sight, somehow suddenly, all at once, before a word has been spoken.”
 <br /><br />
 
@@ -49,6 +50,7 @@ of God; therefore, the simplest that man can conceive is the greatest that he ca
 <br /><br />
 
 **Orientalism**, Edward W. Said
+
 - “Every single empire in its official discourse has said that it is not like all the others, 
 that its circumstances are special, that it has a mission to enlighten, civilize, bring order and 
 democracy, and that it uses force only as a last resort. And, sadder still, there always is a chorus of
@@ -58,6 +60,7 @@ mission civilisatrice.”
 <br /><br />
 
 **The Prophet**, *On Self-Knowledge*, Khalil Gibran
+
 - "And it is well you should.<br />
    The hidden well-spring of your soul must needs rise and run murmuring to the sea;<br />
    And the treasure of your infinite depths would be revealed to your eyes.<br />
@@ -67,12 +70,7 @@ mission civilisatrice.”
 <br /><br />
 Full poem is available [here](https://poets.org/poem/self-knowledge){:target="_blank" rel="noopener"}<br />
 
-<br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-
+<br /> <br />
 
 #### Kashmiri literature
 I love reading literature and poems from my homeland Kashmir. They often draw from metaphors of nature and theme spirituality, 
@@ -80,6 +78,7 @@ patriotism, love of the land, and solidarity. Below I share some.
 <br />
 
 **vwolo ha baagwaano**, Ghulam Ahmad Mahjoor
+
 - "hakoomat maalo dolat naazo nemat bèyi shahanshaähi
 yi soruy chhuy tsé nish paanas tsu amichee zaan paädaa kar
 <br />
@@ -95,6 +94,7 @@ Make flowers bloom and bulbuls sing – create such haunts!"
 <br /><br />
 
 **An excerpt from a poem by Lal Ded** (a 14th century poet)
+
 - "When my mind was cleansed of impurities,<br />
 like a mirror of its dust and dirt,<br />
 I recognized the Self in me:<br />
@@ -108,4 +108,5 @@ and I was nothing."<br />
 <br />
 <br /><br />
 <br /> <br />
+
 #### *Thank you for reading.*
