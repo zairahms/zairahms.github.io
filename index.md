@@ -6,10 +6,12 @@ layout: default
 Hey there! I am a Data Scientist at IBM. 
 
 Previously, I graduated from the University of Pennsylvania with a Master's in Computer Science. 
-I was advised by [Jason Moore](http://jasonhmoore.org/) at The Computational Genetics Lab where I worked
-on [benchmarking the scikit-learn machine learning library](https://github.com/rhiever/sklearn-benchmarks) in Python.
+I was advised by [Jason Moore](http://jasonhmoore.org/){:target="_blank" rel="noopener"} at The Computational Genetics Lab where I worked
+on [benchmarking the scikit-learn machine learning library](https://github.com/rhiever/sklearn-benchmarks){:target="_blank" rel="noopener"} in Python.
 
-Find me on LinkedIn.
+Find me on [LinkedIn](https://www.linkedin.com/in/zairah-mustahsan-29178854/){:target="_blank" rel="noopener"},
+[Twitter](https://twitter.com/zairah___){:target="_blank" rel="noopener"},
+[Google Scholar](https://scholar.google.com/citations?user=6z2FJZkAAAAJ&hl=en){:target="_blank" rel="noopener"}.
 
 
 ## Little more about me
@@ -32,12 +34,12 @@ I mostly rely on independent resources and people's lived experiences for histor
 
 I often contemplate the nature and meaning of time. Is time an illusion? How is memory related to time? 
 Why do some days feel like years and some years feel like seconds? 
-To this end, I've read [The Philosophy of Time](https://plato.stanford.edu/entries/time/) and 
-[The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) 
+To this end, I've read [The Philosophy of Time](https://iep.utm.edu/time/){:target="_blank" rel="noopener"} and 
+[The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/){:target="_blank" rel="noopener"}
 word to word several times. I don't know yet where I'm going with all this. I guess "time" will tell. 
 <br /> 
 
-I sometimes collect what I read [here](/Reading-Writing). 
+I sometimes collect what I read [here](/Reading-Writing){:target="_blank" rel="noopener"}. 
 <br /> 
 
 Having multiple hobbies and interests can feel overwhelming. 

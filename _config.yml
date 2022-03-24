@@ -1,6 +1,7 @@
 markdown:       kramdown
 kramdown:
   auto_ids:     true
+  input: Kramdown
 encoding:       UTF-8
 exclude:
   - .git/
