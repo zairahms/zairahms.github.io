@@ -70,7 +70,7 @@ mission civilisatrice.”
 <br /><br />
 Full poem is available [here](https://poets.org/poem/self-knowledge){:target="_blank" rel="noopener"}<br />
 
-<br /> <br />
+<br /> <br /><br /> <br /><br /> <br /><br /> <br />
 
 #### Kashmiri literature
 I love reading literature and poems from my homeland Kashmir. They often draw from metaphors of nature and theme spirituality, 
