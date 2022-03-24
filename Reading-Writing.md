@@ -65,12 +65,46 @@ mission civilisatrice.”
    And seek not the depths of your knowledge with staff or sounding line.<br />
    For self is a sea boundless and measureless."
 <br /><br />
-The entire poem is available [here](https://poets.org/poem/self-knowledge)
+Full poem is available [here](https://poets.org/poem/self-knowledge)<br />
+
 <br />
-<br />
-<br />
+<br /><br />
+<br /><br />
+<br /><br />
 <br />
 
+#### Kashmiri literature
+I love reading literature and poems from my homeland Kashmir. They often draw from metaphors of nature and theme patriotism, 
+love of the land, and solidarity. Below I share some. 
+<br />
 
-*Thank you for reading.*
+**vwolo ha baagwaano**, Ghulam Ahmad Mahjoor
+- "hakoomat maalo dolat naazo nemat bèyi shahanshaähi
+yi soruy chhuy tsé nish paanas tsu amichee zaan paädaa kar
+<br />
+vwolo haa baagvaano navbahaaruk shaan paadaa kar
+phwolan gul gath karan bulbul tithee saamaan paadaa kar <br />
+//<br />
+Wealth and pride and comfort, luxury and authority,
+Kingship and governance – all these are yours!
+Wake up, sleeper, and know these as yours!
+<br />
+Arise O, gardener ! Create the glory of new spring!
+Make flowers bloom and bulbuls sing – create such haunts!"
+<br /><br />
 
+**An excerpt from a poem by Lal Ded**
+- "When my mind was cleansed of impurities,<br />
+like a mirror of its dust and dirt,<br />
+I recognized the Self in me:<br />
+When I saw Him dwelling in me,<br />
+I realized that He was the Everything<br />
+and I was nothing."<br />
+
+<br />
+
+<br />
+<br />
+<br /><br />
+<br />
+#### *Thank you for reading.*
