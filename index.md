@@ -39,7 +39,7 @@ To this end, I've read [The Philosophy of Time](https://iep.utm.edu/time/){:targ
 word to word several times. I don't know yet where I'm going with all this. I guess "time" will tell. 
 <br /> 
 
-I sometimes collect what I read [here](/Reading-Writing){:target="_blank" rel="noopener"}. 
+I sometimes collect what I read [here](/Reading-Writing). 
 <br /> 
 
 Having multiple hobbies and interests can feel overwhelming. 
