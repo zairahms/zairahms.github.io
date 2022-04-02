@@ -36,28 +36,58 @@ ___
 - "We allow ourselves to be blown by the winds because we do know what we want: our hearts know it, 
 even if our thoughts are sometimes slow to follow- but in the end, they do catch up with our hearts 
 and then we think we have made a decision."<br />
-- “Whatever beauty man may be able to create with his hands, it will be only conceit to deem it worthy 
-of God; therefore, the simplest that man can conceive is the greatest that he can do to express the glory of God.”
+- "Whatever beauty man may be able to create with his hands, it will be only conceit to deem it worthy 
+of God; therefore, the simplest that man can conceive is the greatest that he can do to express the glory of God."
+<br /><br />
+
+**Women Who Run With the Wolves,** Clarissa Pinkola Estés
+
+- "The doors to the world of the wild Self are few but precious. If you have a deep scar, that is a door, 
+if you have an old, old story, that is a door. If you love the sky and the water so much you almost cannot bear it, 
+that is a door. If you yearn for a deeper life, a full life, a sane life, that is a door."<br />
+- "We all begin the process before we are ready, before we are strong enough, before we know enough; 
+we begin a dialogue with thoughts and feelings that both tickle and thunder within us. 
+We respond before we know how to speak the language, before we know all the answers, and before we know 
+exactly to whom we are speaking."
 <br /><br />
 
 **Crime and Punishment,** Fyodor Dostoyevsky
 
-- “We sometimes encounter people, even perfect strangers, who begin to interest us at first sight, somehow suddenly, all at once, before a word has been spoken.”
+- "We sometimes encounter people, even perfect strangers, who begin to interest us at first sight, 
+somehow suddenly, all at once, before a word has been spoken."
 <br /><br />
 
 **The Secret Life of Bees,** Sue Monk Kidd
 
-- “I have noticed that if you look carefully at people’s eyes the first five seconds they look at you, the truth of their feelings will shine through for just an instant before it flickers away.”
+- "I have noticed that if you look carefully at people’s eyes the first five seconds they look at you, 
+the truth of their feelings will shine through for just an instant before it flickers away."
+- "You know, some things don't matter that much...Like the color of a house. How big is that in the overall 
+scheme of life? But lifting a person's heart - now, that matters."
 <br /><br />
 
-**Orientalism**, Edward W. Said
+**Einstein's Dreams,** Alan Lightman
 
-- “Every single empire in its official discourse has said that it is not like all the others, 
+- "Time can be measured by things other than clocks: by the changes in heavenly bodies... by heartbeats... the duration of loneliness."
+<br /><br />
+
+**Kafka on the Shore,** Haruki Murakami
+
+- "Silence, I discover, is something you can actually hear."
+<br /><br />
+
+**My Name Is Red,** Orhan Pamuk
+
+- "I don't want to be a tree; I want to be its meaning."
+<br /><br />
+
+**Orientalism,** Edward W. Said
+
+- "Every single empire in its official discourse has said that it is not like all the others, 
 that its circumstances are special, that it has a mission to enlighten, civilize, bring order and 
 democracy, and that it uses force only as a last resort. And, sadder still, there always is a chorus of
 willing intellectuals to say calming words about benign or altruistic empires, as if one shouldn't trust
 the evidence of one's eyes watching the destruction and the misery and death brought by the latest 
-mission civilisatrice.”
+mission civilisatrice."
 <br /><br />
 
 **The Prophet**, *On Self-Knowledge*, Khalil Gibran
