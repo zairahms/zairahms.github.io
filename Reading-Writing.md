@@ -67,7 +67,8 @@ scheme of life? But lifting a person's heart - now, that matters."
 
 **Einstein's Dreams,** Alan Lightman
 
-- "Time can be measured by things other than clocks: by the changes in heavenly bodies... by heartbeats... the duration of loneliness."
+- "Time can be measured by things other than clocks: by the changes in heavenly bodies... by heartbeats... 
+the duration of loneliness."
 <br /><br />
 
 **Kafka on the Shore,** Haruki Murakami
@@ -82,15 +83,15 @@ scheme of life? But lifting a person's heart - now, that matters."
 
 **Orientalism,** Edward W. Said
 
-- "Every single empire in its official discourse has said that it is not like all the others, 
-that its circumstances are special, that it has a mission to enlighten, civilize, bring order and 
+- "Every single empire in its official discourse has said that it is not like all the others,
+that its circumstances are special, that it has a mission to enlighten, civilize, bring order and
 democracy, and that it uses force only as a last resort. And, sadder still, there always is a chorus of
 willing intellectuals to say calming words about benign or altruistic empires, as if one shouldn't trust
-the evidence of one's eyes watching the destruction and the misery and death brought by the latest 
+the evidence of one's eyes watching the destruction and the misery and death brought by the latest
 mission civilisatrice."
 <br /><br />
 
-**The Prophet**, *On Self-Knowledge*, Khalil Gibran
+**The Prophet,** *On Self-Knowledge,* Khalil Gibran
 
 - "And it is well you should.<br />
    The hidden well-spring of your soul must needs rise and run murmuring to the sea;<br />
@@ -108,7 +109,7 @@ I love reading literature and poems from my homeland Kashmir. They often draw fr
 patriotism, love of the land, and solidarity. Below I share some. 
 <br />
 
-**vwolo ha baagwaano**, Ghulam Ahmad Mahjoor
+**vwolo ha baagwaano,** Ghulam Ahmad Mahjoor
 
 - "hakoomat maalo dolat naazo nemat bèyi shahanshaähi
 yi soruy chhuy tsé nish paanas tsu amichee zaan paädaa kar
