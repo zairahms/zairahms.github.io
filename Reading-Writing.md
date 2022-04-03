@@ -76,12 +76,12 @@ the duration of loneliness."
 - "Silence, I discover, is something you can actually hear."
 <br /><br />
 
-**My Name Is Red,** Orhan Pamuk
+**<br /><br />My Name Is Red,** Orhan Pamuk
 
 - "I don't want to be a tree; I want to be its meaning."
 <br /><br />
 
-**Orientalism,** Edward W. Said
+**<br /><br />Orientalism,** Edward W. Said
 
 - "Every single empire in its official discourse has said that it is not like all the others,
 that its circumstances are special, that it has a mission to enlighten, civilize, bring order and
