@@ -31,7 +31,11 @@ and find your alignment!  <br />
 
 ### Here I collect some words that have resonated with me
 ___
-**The Road to Mecca,** Muhammad Asad
+- Solidarity is a verb, *Unknown*
+<br /><br />
+
+
+**<br /><br />The Road to Mecca,** Muhammad Asad
 
 - "We allow ourselves to be blown by the winds because we do know what we want: our hearts know it, 
 even if our thoughts are sometimes slow to follow- but in the end, they do catch up with our hearts 
