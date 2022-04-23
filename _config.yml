@@ -4,10 +4,12 @@ kramdown:
   input: Kramdown
 encoding:       UTF-8
 exclude:
+  - vendor
   - .git/
   - package.json
   - package-lock.json
   - node_modules
+
 sass:
   sass_dir: ./
   style: compressed
