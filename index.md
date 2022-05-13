@@ -42,7 +42,7 @@ word to word several times. I don't know yet where I'm going with all this. I gu
 I sometimes collect what I read [here](/Reading-Writing). 
 <br /> 
 
-Having multiple hobbies and interests can feel overwhelming. 
+Having multiple hobbies and interests can feel overwhelming 🙂
 <br /> 
 
 Ironically, the wide variety of things that I've read and my experiences, 
