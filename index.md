@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Zairah Mustahsan
-Hey there! I am a Data Scientist at IBM. I work on Information Retrieval and NLP models to help our 
+Hey! I am a Data Scientist at IBM. I work on Information Retrieval and NLP models to help our 
 customers find relevant answers/documents efficiently. I am passionate about ethics and privacy in data
 and frequently contribute to IBM's AI Fairness research and tools.  
 
