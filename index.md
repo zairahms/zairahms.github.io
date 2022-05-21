@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Zairah Mustahsan
-Hey there! I am a Data Scientist at IBM. 
+Hey there! I am a Data Scientist at IBM. I work on Information Retrieval and NLP models to help our 
+customers find relevant answers/documents efficiently. I am passionate about ethics and privacy in data
+and frequently contribute to IBM's AI Fairness research and tools.  
 
 Previously, I graduated from the University of Pennsylvania with a Master's in Computer Science. 
 I was advised by [Jason Moore](http://jasonhmoore.org/){:target="_blank" rel="noopener"} at The Computational Genetics Lab where I worked
@@ -12,7 +14,18 @@ on [benchmarking the scikit-learn machine learning library](https://github.com/r
 Find me on [LinkedIn](https://www.linkedin.com/in/zairah-mustahsan-29178854/){:target="_blank" rel="noopener"},
 [Twitter](https://twitter.com/zairah___){:target="_blank" rel="noopener"},
 [Google Scholar](https://scholar.google.com/citations?user=6z2FJZkAAAAJ&hl=en){:target="_blank" rel="noopener"}.
+<br /> 
 
+## Patents and Publications
+- Enhancing fairness in transfer learning for machine learning models with missing protected attributes in source or target domains, May 27, 2021.
+<br /> [Link](https://patents.google.com/patent/US20210158204A1/en)
+- Fair Transfer Learning with Missing Protected Attributes. A. Coston, K. N. Ramamurthy, D. Wei, K. R. Varshney, S. Speakman, Z. Mustahsan, and S. Chakraborty; *AAAI/ACM Conference on AI, Ethics, and Society - AIES 2019.*
+<br /> [Link](https://dl.acm.org/doi/abs/10.1145/3306618.3314236)
+- Data-driven Advice for Applying Machine Learning to Bioinformatics Problems. R. S. Olson, W. L. Cava, 
+Z. Mustahsan, A. Varik, J. H. Moore; *Pacific Symposium on Biocomputing, 2018.*
+<br /> [Link](https://www.worldscientific.com/doi/abs/10.1142/9789813235533_0018)
+<br /> 
+<br /> 
 
 ## Little more about me
 
