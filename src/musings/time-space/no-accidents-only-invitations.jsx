@@ -84,9 +84,14 @@ export default function NoAccidentsOnlyInvitations() {
       <br />
       <br />
       This is the secret the spilled tea was trying to tell me: <br />
-      {'\u00A0\u00A0'}that every disruption is also an opening, every small break a chance to begin again. <br />
-      {'\u00A0\u00A0'}And if this is true, if one cracked teacup can carry such weight, <br />
-      then what of all the other moments we dismiss as mere accidents? 
+      {'\u00A0\u00A0'}that I was seeing the mirror at work. <br />
+      {'\u00A0\u00A0'}That my restless heart had found its reflection in restless cup, <br />
+      {'\u00A0\u00A0'}and this wasn&apos;t accident but insistence - <br />
+      the world refusing to let me hide from what I carried within.
+      <br />
+      <br />
+      And if this is true, if one cracked teacup can carry such weight, <br />
+      {'\u00A0\u00A0'}then what of all the other moments we dismiss as mere accidents? 
       <br />
       <br />
       Reality changes with this recognition: <br />
