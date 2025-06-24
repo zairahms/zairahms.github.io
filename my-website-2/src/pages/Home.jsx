@@ -17,7 +17,7 @@ export default function Home() {
             Hey, I&apos;m Zairah — an Artist, a Wanderer, and a Scientist. I&apos;m into AI, travel,
             and bending my mind around time, space, and meaning.
           </p>
-          <div className="mb-6 h-1 w-126 rounded bg-purple-200"></div>
+          <div className="w-126 mb-6 h-1 rounded bg-purple-200"></div>
           <p className="mb-4" text-lg>
             <span className="text-yellow-600">2022–2025:</span> Spent 3 years as Founding Data
             Scientist at You.com, an AI startup redefining search and productivity. During this
@@ -34,12 +34,12 @@ export default function Home() {
             Platform focusing on Natural Language Processing (NLP) and AI Fairness.
             <br />
             <br />
-            <span className="pl-8 inline-block">
+            <span className="inline-block pl-8">
                 Conversational AI: Built production-scale question-answering systems and search services using deep learning and NLP, developing semantic matching microservices, query optimization techniques, ML-based ranking algorithms, and comprehensive evaluation pipelines for relevance assessment and performance benchmarking.
             </span>
             <br />
             <br />
-            <span className="pl-8 inline-block">
+            <span className="inline-block pl-8">
               AI Fairness: Co-authored patented research on fair transfer learning techniques for risk assessment scenarios where protected attributes such as race and gender are missing.
                Introducing methods that maintain fairness across different domains without requiring sensitive demographic data in both source and target populations. 
                Contributed to IBM&apos;s popular AI Fairness 360 toolkit with 2,300+ GitHub stars.
@@ -70,8 +70,8 @@ export default function Home() {
           </p>
 
           <h1 className="mb-4 mt-12 text-4xl font-bold text-gray-800">Patents and Publications</h1>
-          <div className="mb-6 h-1 w-126 rounded bg-purple-200"></div>
-          <ul className="list-disc pl-6 mb-4">
+          <div className="w-126 mb-6 h-1 rounded bg-purple-200"></div>
+          <ul className="mb-4 list-disc pl-6">
           <li className="mb-6">
               <a
                 href="https://patents.google.com/patent/US20210158204A1/en"
@@ -134,7 +134,7 @@ export default function Home() {
           </ul>
 
           <h1 className="mb-4 mt-12 text-4xl font-bold text-gray-800">Little more about me</h1>
-          <div className="mb-6 h-1 w-126 rounded bg-purple-200"></div>
+          <div className="w-126 mb-6 h-1 rounded bg-purple-200"></div>
           <p className="mb-4" text-lg>
             I was born and raised in Kashmir. It&apos;s a ~70K sq mile land in the Northern
             Himalayas bordering South and Central Asia. Kashmir has a very long and ongoing history
@@ -187,7 +187,7 @@ export default function Home() {
             this. I guess &quot;time&quot; will tell.
             <br />
             <br />
-            I sometimes write about the meaning of time <Link to="/musings" className="text-blue-500 underline hover:text-blue-600 transform hover:scale-105 transition">here.</Link>
+            I sometimes write about the meaning of time <Link to="/musings" className="text-blue-500 underline transition hover:scale-105 hover:text-blue-600">here.</Link>
             <br />
             <br />
             Having multiple hobbies and interests can feel overwhelming 🙂

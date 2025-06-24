@@ -33,14 +33,14 @@ export default function NoAccidentsOnlyInvitations() {
       grief, and unfinished prayers <br />
       The kind of unease you can almost ignore during the day, but <br />
       which sits heavy in the chest when the lights go out <br />
-      I hadn't confessed it to anyone <br />
-      I hadn't even confessed it fully to myself <br />
+      I hadn&apos;t confessed it to anyone <br />
+      I hadn&apos;t even confessed it fully to myself <br />
       Yet somehow, the world had heard.
       <br />
       <br />
       It was only much later, in the slow untangling of <br />
       reflection, that I would remember <br />
-      Imam Al-Ghazali's words: <br />
+      Imam Al-Ghazali&apos;s words: <br />
       Nothing moves by its own power. Every moment is a fresh creation <br />
       Causality is an illusion laid gently across reality to comfort the limited mind.
       <br />
@@ -57,7 +57,7 @@ export default function NoAccidentsOnlyInvitations() {
       It speaks, and the world listens <br />
       not by magic, nor by manifestation, nor by the arrogant illusion that <br />
       thought commands matter. <br />
-      But because the Creator is merciful enough to answer the heart's hidden <br />
+      But because the Creator is merciful enough to answer the heart&apos;s hidden <br />
       languages, even when the tongue stays silent. 
       <br />
       <br />
@@ -91,7 +91,7 @@ export default function NoAccidentsOnlyInvitations() {
       <br />
       Reality changes with this recognition: <br />
         There are no small moments. No accidents, only invitations, folded invisibly into the hours, <br />
-      "Return to Me." 
+      &quot;Return to Me.&quot; 
       <br />
       <br />  
       And when the heart does return <br />
