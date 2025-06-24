@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function Home() {
   return (
@@ -186,7 +187,7 @@ export default function Home() {
             this. I guess &quot;time&quot; will tell.
             <br />
             <br />
-            I sometimes write about the meaning of time here.
+            I sometimes write about the meaning of time <Link to="/musings" className="text-blue-500 underline hover:text-blue-600 transform hover:scale-105 transition">here.</Link>
             <br />
             <br />
             Having multiple hobbies and interests can feel overwhelming 🙂
